@@ -8,12 +8,12 @@
   "counts": {
     "scannedBanks": 91,
     "selectedBanks": 88,
-    "totalClips": 621,
-    "exportedClips": 621,
-    "exportedCostumes": 207,
+    "totalClips": 624,
+    "exportedClips": 624,
+    "exportedCostumes": 208,
     "noMatchingCommonSamples": 0,
     "onlyBattleOrCutscene": 0,
-    "bytes": 223165628,
+    "bytes": 224423744,
     "silentClips": 0,
     "failures": 0
   },
@@ -5094,6 +5094,26 @@
         "ja-JP/001297/Char001297_BattleReady_1.wav",
         "ja-JP/001297/Char001297_BattleReady_2.wav",
         "ja-JP/001297/Char001297_BattleReady_3.wav"
+      ]
+    },
+    {
+      "costumeId": "067203",
+      "voiceAliases": [
+        "067203"
+      ],
+      "characterId": 672,
+      "character": "贝那卡",
+      "costume": "折桂之姿",
+      "allCommonClipCount": 61,
+      "exportedClipCount": 3,
+      "normalLineCount": 3,
+      "reactionCount": 0,
+      "characterLineCount": 0,
+      "status": "exported",
+      "files": [
+        "ja-JP/067203/Char067203_BattleReady_1.wav",
+        "ja-JP/067203/Char067203_BattleReady_2.wav",
+        "ja-JP/067203/Char067203_BattleReady_3.wav"
       ]
     }
   ],
@@ -17517,6 +17537,66 @@
       "peak": 27139,
       "rms": 7171.955444688236,
       "sha256": "6c6b647bfb06a4c89dbb2b28204c6d9830ea38e656feec7b04e6e3e817f55b3e"
+    },
+    {
+      "name": "Char067203_BattleReady_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleReady",
+      "category": "normalLine",
+      "sampleIndex": 68,
+      "file": "ja-JP/067203/Char067203_BattleReady_1.wav",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sourceBankSha256": "148872314e02f1cc3cbc5ccaaa33ec8c2849cdfa9fbb5985c43ce091a95f4070",
+      "sampleRate": 48000,
+      "channels": 1,
+      "bitsPerSample": 16,
+      "frames": 179456,
+      "duration": 3.7386666666666666,
+      "bytes": 358956,
+      "peak": 26754,
+      "rms": 5874.723973592125,
+      "sha256": "1bcde165325a352784495f203950d6e6f3189a4d20ef3d9eae3a30a3d6cbb80b"
+    },
+    {
+      "name": "Char067203_BattleReady_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleReady",
+      "category": "normalLine",
+      "sampleIndex": 69,
+      "file": "ja-JP/067203/Char067203_BattleReady_2.wav",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sourceBankSha256": "148872314e02f1cc3cbc5ccaaa33ec8c2849cdfa9fbb5985c43ce091a95f4070",
+      "sampleRate": 48000,
+      "channels": 1,
+      "bitsPerSample": 16,
+      "frames": 239360,
+      "duration": 4.986666666666666,
+      "bytes": 478764,
+      "peak": 26340,
+      "rms": 5266.283811178795,
+      "sha256": "3d5eaa7d7403d50ef3e4fa911e1e1261a59211bc01a3886aa678a0ae63096e85"
+    },
+    {
+      "name": "Char067203_BattleReady_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleReady",
+      "category": "normalLine",
+      "sampleIndex": 70,
+      "file": "ja-JP/067203/Char067203_BattleReady_3.wav",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sourceBankSha256": "148872314e02f1cc3cbc5ccaaa33ec8c2849cdfa9fbb5985c43ce091a95f4070",
+      "sampleRate": 48000,
+      "channels": 1,
+      "bitsPerSample": 16,
+      "frames": 210176,
+      "duration": 4.378666666666667,
+      "bytes": 420396,
+      "peak": 26438,
+      "rms": 5603.980916650279,
+      "sha256": "526f132c1ec44e35f1ab7eea38e5119f21435949b11de55a7a41c4188a78c2af"
     }
   ],
   "availableCommonSamples": [
@@ -62870,6 +62950,555 @@
       "category": "reaction",
       "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\FFB8E22BF0C0E33B00BD6B04A84990FB39793BEE",
       "sampleIndex": 51
+    },
+    {
+      "name": "Char067203_AFK_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "AFK",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 53
+    },
+    {
+      "name": "Char067203_AFK_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "AFK",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 54
+    },
+    {
+      "name": "Char067203_AFK_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "AFK",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 55
+    },
+    {
+      "name": "Char067203_Admire_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Admire",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 56
+    },
+    {
+      "name": "Char067203_Affinity_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 57
+    },
+    {
+      "name": "Char067203_Affinity_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 58
+    },
+    {
+      "name": "Char067203_Affinity_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 59
+    },
+    {
+      "name": "Char067203_Affinity_4",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 60
+    },
+    {
+      "name": "Char067203_Affinity_5",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 61
+    },
+    {
+      "name": "Char067203_Affinity_6",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 62
+    },
+    {
+      "name": "Char067203_Affinity_7",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 63
+    },
+    {
+      "name": "Char067203_Affinity_8",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 64
+    },
+    {
+      "name": "Char067203_Affinity_9",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Affinity",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 65
+    },
+    {
+      "name": "Char067203_Angry_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Angry",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 66
+    },
+    {
+      "name": "Char067203_BattleAttack_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleAttack",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 67
+    },
+    {
+      "name": "Char067203_BattleReady_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleReady",
+      "category": "normalLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 68
+    },
+    {
+      "name": "Char067203_BattleReady_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleReady",
+      "category": "normalLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 69
+    },
+    {
+      "name": "Char067203_BattleReady_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleReady",
+      "category": "normalLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 70
+    },
+    {
+      "name": "Char067203_BattleVictory_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleVictory",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 71
+    },
+    {
+      "name": "Char067203_BattleVictory_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleVictory",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 72
+    },
+    {
+      "name": "Char067203_BattleVictory_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "BattleVictory",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 73
+    },
+    {
+      "name": "Char067203_Bday_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Bday",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 74
+    },
+    {
+      "name": "Char067203_Bday_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Bday",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 75
+    },
+    {
+      "name": "Char067203_Bday_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Bday",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 76
+    },
+    {
+      "name": "Char067203_Burst_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Burst",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 77
+    },
+    {
+      "name": "Char067203_Burst_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Burst",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 78
+    },
+    {
+      "name": "Char067203_Burst_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Burst",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 79
+    },
+    {
+      "name": "Char067203_Cry_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cry",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 80
+    },
+    {
+      "name": "Char067203_Cutscene1_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene1",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 81
+    },
+    {
+      "name": "Char067203_Cutscene1_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene1",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 82
+    },
+    {
+      "name": "Char067203_Cutscene2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 83
+    },
+    {
+      "name": "Char067203_Cutscene3_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene3",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 84
+    },
+    {
+      "name": "Char067203_Cutscene3_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene3",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 85
+    },
+    {
+      "name": "Char067203_Cutscene4",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 86
+    },
+    {
+      "name": "Char067203_Cutscene5_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene5",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 87
+    },
+    {
+      "name": "Char067203_Cutscene5_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene5",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 88
+    },
+    {
+      "name": "Char067203_Cutscene6",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 89
+    },
+    {
+      "name": "Char067203_Cutscene7",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 90
+    },
+    {
+      "name": "Char067203_Cutscene8",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 91
+    },
+    {
+      "name": "Char067203_Cutscene9",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Cutscene",
+      "category": "cutscene",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 92
+    },
+    {
+      "name": "Char067203_Damage_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Damage",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 93
+    },
+    {
+      "name": "Char067203_Dash_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Dash",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 94
+    },
+    {
+      "name": "Char067203_Embarrass_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Embarrass",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 95
+    },
+    {
+      "name": "Char067203_Hold_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Hold",
+      "category": "battle",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 96
+    },
+    {
+      "name": "Char067203_Negative_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Negative",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 97
+    },
+    {
+      "name": "Char067203_Neutral_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Neutral",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 98
+    },
+    {
+      "name": "Char067203_Pain_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Pain",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 99
+    },
+    {
+      "name": "Char067203_Positive_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Positive",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 100
+    },
+    {
+      "name": "Char067203_Rapport_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 101
+    },
+    {
+      "name": "Char067203_Rapport_2",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 102
+    },
+    {
+      "name": "Char067203_Rapport_3",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 103
+    },
+    {
+      "name": "Char067203_Rapport_4",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 104
+    },
+    {
+      "name": "Char067203_Rapport_5",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 105
+    },
+    {
+      "name": "Char067203_Rapport_6",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 106
+    },
+    {
+      "name": "Char067203_Rapport_7",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 107
+    },
+    {
+      "name": "Char067203_Rapport_8",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 108
+    },
+    {
+      "name": "Char067203_Rapport_9",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Rapport",
+      "category": "characterLine",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 109
+    },
+    {
+      "name": "Char067203_Sigh_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Sigh",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 110
+    },
+    {
+      "name": "Char067203_Smile_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Smile",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 111
+    },
+    {
+      "name": "Char067203_Surprise_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Surprise",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 112
+    },
+    {
+      "name": "Char067203_Worry_1",
+      "costumeId": "067203",
+      "voiceId": "067203",
+      "type": "Worry",
+      "category": "reaction",
+      "sourceBank": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+      "sampleIndex": 113
     }
   ],
   "failures": []

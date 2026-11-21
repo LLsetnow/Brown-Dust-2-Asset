@@ -21,6 +21,7 @@ The repository-level [index.json](index.json) maps each character to its costume
 | <code>canonicalCostumeIds</code> | Current costume IDs from the character roster. |
 | <code>costumeIds</code> | Costume IDs including known legacy aliases and available censored variants. |
 | <code>costumeAssetIds</code> | Exact IDs of character directories present under <code>spine/char</code>. |
+| <code>spine42CostumeAssetIds</code> | Character asset IDs under <code>spine-4.2/char</code>. |
 | <code>costumeIdAliases</code> | Maps a legacy or variant asset ID to its canonical costume ID. |
 | <code>datingIds</code> | Dating scene resource IDs, such as <code>illust_dating1</code>. |
 | <code>datingLobbyIds</code> / <code>datingInteractionIds</code> | Native dating lobby row IDs and nonzero interaction IDs. |
@@ -31,3 +32,5 @@ The repository-level [index.json](index.json) maps each character to its costume
 | <code>audioFiles</code> | Relative audio file paths. Paths are relative to <code>audio/char</code>, <code>audio/cutscene</code>, or <code>audio/dating</code> according to category. |
 
 The index combines current costume IDs with legacy asset aliases so older resource names can still be resolved. Some hashed files in <code>audio/dating</code> have no scene-event mapping and are therefore not assigned to a character.
+
+Spine 4.2.43 assets from game build 2.39.10 are under [spine-4.2](spine-4.2/). The [asset refresh record](docs/asset-refresh-2026-11-22.json) contains the source catalog and validation results.

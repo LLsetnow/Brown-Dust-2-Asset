@@ -4,7 +4,17 @@
     "protobufField": 11,
     "commonSha256": "7cbb7275a9fc137592b01383113381f18d209903d34963bdd70c9ad0d5b666ba",
     "resolution": "FMOD create-programmer-sound callbacks",
-    "resolvedEvents": 621
+    "resolvedEvents": 621,
+    "refreshes": [
+      {
+        "gameVersion": "2.39.10",
+        "catalogHash": "b6638a00fb6584b4b0ea6f78fedbad6d",
+        "commonSha256": "47c513cd813f22d0594962cd57fa958e0d5dc1eef7a982e68fdc2c4f76db0a71",
+        "costumeIds": [
+          "067203"
+        ]
+      }
+    ]
   },
   "costumes": [
     {
@@ -3937,6 +3947,25 @@
         {
           "event": "Common/Char068001/Profile/Char068001_NormalLine_3",
           "sample": "Char068001/Char068001_BattleReady_3"
+        }
+      ]
+    },
+    {
+      "costumeId": "067203",
+      "skeleton": "Char067203",
+      "illustration": "illust_char067203_230",
+      "events": [
+        {
+          "event": "Common/Char067203/Profile/Char067203_NormalLine_1",
+          "sample": "Char067203/Char067203_BattleReady_1"
+        },
+        {
+          "event": "Common/Char067203/Profile/Char067203_NormalLine_2",
+          "sample": "Char067203/Char067203_BattleReady_2"
+        },
+        {
+          "event": "Common/Char067203/Profile/Char067203_NormalLine_3",
+          "sample": "Char067203/Char067203_BattleReady_3"
         }
       ]
     }

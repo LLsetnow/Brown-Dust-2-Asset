@@ -391,7 +391,15 @@
         "sfx/Char000103_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000101",
+      "000102",
+      "000103",
+      "000104",
+      "000105",
+      "000106"
+    ]
   },
   "0002": {
     "englishName": "Justia",
@@ -1078,7 +1086,15 @@
         "f6c8ffb39633f56c7c8c513893f136acc6619c39ca5dffbad0c55821ecbe9512.ogg",
         "f9ce6b44c32d6bc0e1ab17e74254811fae71dc388fde210370aa6ab562cf907d.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000201",
+      "000202",
+      "000203",
+      "000204",
+      "000206",
+      "000296"
+    ]
   },
   "0003": {
     "englishName": "Scheherazade",
@@ -1989,7 +2005,14 @@
         "ff6259fac779d444cf65da53522ec7ea74a55f2036dff3bf47aeabb0db3a7a22.ogg",
         "ffda0d9ebcc246d0f75e009645a9d42c0779f035e2679ebf90c37a7a8ed8ad10.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000301",
+      "000303",
+      "000304",
+      "000306",
+      "000396"
+    ]
   },
   "0004": {
     "englishName": "Gray",
@@ -2278,7 +2301,13 @@
         "sfx/Char000401_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000401",
+      "000402",
+      "000403",
+      "000406"
+    ]
   },
   "0005": {
     "englishName": "Rou",
@@ -2591,7 +2620,14 @@
         "sfx/Char000506_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000501",
+      "000502",
+      "000502_c",
+      "000504",
+      "000506"
+    ]
   },
   "0006": {
     "englishName": "Olstein",
@@ -2720,7 +2756,11 @@
         "sfx/Char000604_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000601",
+      "000604"
+    ]
   },
   "0007": {
     "englishName": "Eclipse",
@@ -3306,7 +3346,13 @@
         "f396dc63fbceae61570af77dc172e58418e69c8aac07accd0834cd06b6646f66.ogg",
         "fe54c0ce350d9bc7ed52455612ebd11274f7fdcce33cf513fd2cb4c0acfd3947.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000701",
+      "000706",
+      "000707",
+      "000708"
+    ]
   },
   "0008": {
     "englishName": "Rubia",
@@ -3573,7 +3619,13 @@
         "sfx/Char000807_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "000801",
+      "000804",
+      "000806",
+      "000807"
+    ]
   },
   "0009": {
     "englishName": "Remnunt",
@@ -3658,7 +3710,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100401"
+    ]
   },
   "0010": {
     "englishName": "Sylvia",
@@ -4307,7 +4362,14 @@
         "fa87863d85519197814739be5c4dc245a64f0890609e3e00978d7c92ed993e05.ogg",
         "fbf94705f01202e98eedc0c60466e0bc3a7a0ffa8970d31e617cd298227a4ca9.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "001001",
+      "001002",
+      "001004",
+      "001006",
+      "001092"
+    ]
   },
   "0011": {
     "englishName": "Teresse",
@@ -5398,7 +5460,13 @@
         "fb959eb15073391d2648b69ea9ae2da7ca5aee2c8e200d7abf2e4ec81462492d.ogg",
         "fe09dd6631e46ccfabfaf429124a409d965c212a1a6757bc0dd8ab3c8b91195e.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "001101",
+      "001106",
+      "001107",
+      "001197"
+    ]
   },
   "0012": {
     "englishName": "Liatris",
@@ -5705,7 +5773,13 @@
         "sfx/Char001297_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "001201",
+      "001206",
+      "001207",
+      "001297"
+    ]
   },
   "0013": {
     "englishName": "Gynt",
@@ -5784,7 +5858,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100101"
+    ]
   },
   "0014": {
     "englishName": "Fred",
@@ -5879,7 +5956,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100201"
+    ]
   },
   "0015": {
     "englishName": "Lisianne",
@@ -5970,7 +6050,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100301"
+    ]
   },
   "0016": {
     "englishName": "Bernie",
@@ -6055,7 +6138,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100801"
+    ]
   },
   "0024": {
     "englishName": "Diana",
@@ -6303,7 +6389,12 @@
         "sfx/Char002406_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "002401",
+      "002403",
+      "002406"
+    ]
   },
   "0030": {
     "englishName": "Layla",
@@ -6391,7 +6482,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003001"
+    ]
   },
   "0031": {
     "englishName": "Elpis",
@@ -6505,7 +6599,10 @@
         "sfx/Char003101_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003101"
+    ]
   },
   "0032": {
     "englishName": "Loen",
@@ -7002,7 +7099,11 @@
         "e13e0eb2a7abd2775948bc6f6a0b63d22505ffb9e54d1f7f63a69ed1fa67452a.ogg",
         "e593b3b87efdef87190c6b2c59a11dd08f08ca526171a9c58195dc26b7e10d29.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003202",
+      "003203"
+    ]
   },
   "0033": {
     "englishName": "Nebris",
@@ -7625,7 +7726,13 @@
         "fd694de258c4b8237b1546509881dba7af5f3ee7dd1f922f99591e3b311b8245.ogg",
         "ff8b4fbaa8c3a57b8314ed153910877b45fcfe578336f1146d31ddbb57e2df76.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003301",
+      "003302",
+      "003303",
+      "003392"
+    ]
   },
   "0034": {
     "englishName": "Morpeah",
@@ -8148,7 +8255,12 @@
         "fe2feda7c0ea19add8c7b97348cd888c075f33ec431854324bb3e788836e291a.ogg",
         "fefbdb3a175dce314e21712a7affed88fc52dc4db09b749952ee17871c3c4433.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003401",
+      "003402",
+      "003403"
+    ]
   },
   "0035": {
     "englishName": "Sacred Justia",
@@ -8253,7 +8365,10 @@
         "sfx/Char003501_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003501"
+    ]
   },
   "0036": {
     "englishName": "Olivier",
@@ -8888,7 +9003,13 @@
         "fb2088b3eb03427b34069e95fc1ff8e5135db735fc0420a221386f4089f140b3.ogg",
         "fdd2b1bf8b4870ad06c4b1684f51ceb6cd46e0c1b372ebf5f0d6d46f3b4a5302.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003601",
+      "003602",
+      "003603",
+      "003604"
+    ]
   },
   "0037": {
     "englishName": "Blade",
@@ -9129,7 +9250,13 @@
         "sfx/Char003793_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003701",
+      "003702",
+      "003703",
+      "003793"
+    ]
   },
   "0038": {
     "englishName": "Liberta",
@@ -9752,7 +9879,13 @@
         "faff7debfc75bb7c4a5b93b953ad8a772c514d0fb9f7fcf61c44c3437052bda3.ogg",
         "feccca6b2dbf120ad5681d1d0e9fdfd1141c72ecb6eee04a63ab9d46e872b6b5.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003801",
+      "003802",
+      "003803",
+      "003892"
+    ]
   },
   "0039": {
     "englishName": "Sonya",
@@ -9940,7 +10073,11 @@
         "sfx/Char003902_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "003901",
+      "003902"
+    ]
   },
   "0040": {
     "englishName": "Darian",
@@ -10194,7 +10331,12 @@
         "sfx/Char004091_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "004001",
+      "004002",
+      "004091"
+    ]
   },
   "0041": {
     "englishName": "Tyr",
@@ -10798,7 +10940,12 @@
         "f111501537785e49358a76b069a922510192953754952775fbc0cd85600873d5.ogg",
         "fd0c11eb6927dfac97765c858ba787e10ad9f24e7ec3b44a5e3945411ec91a25.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "004101",
+      "004102",
+      "004192"
+    ]
   },
   "0042": {
     "englishName": "Palette",
@@ -11334,7 +11481,11 @@
         "f44772612f53cd582180dc8e96a1537005fb51c40663c5721ce588c065828afa.ogg",
         "ffd0aed1c5838271bddc608195d5800ae32820c1c2202d774191e4c070359049.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "004201",
+      "004202"
+    ]
   },
   "0043": {
     "englishName": "Nekyndalia",
@@ -11534,7 +11685,11 @@
         "sfx/Char004302_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "004301",
+      "004302"
+    ]
   },
   "0200": {
     "englishName": "Eris",
@@ -11629,7 +11784,11 @@
         "sfx/Char020002_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020001",
+      "020002"
+    ]
   },
   "0201": {
     "englishName": "Roxy",
@@ -11727,7 +11886,11 @@
         "sfx/Char020102_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020101",
+      "020102"
+    ]
   },
   "0202": {
     "englishName": "Yomi",
@@ -11796,7 +11959,10 @@
         "sfx/Char020201_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020201"
+    ]
   },
   "0203": {
     "englishName": "Yozakura",
@@ -11869,7 +12035,10 @@
         "sfx/Char020301_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020301"
+    ]
   },
   "0204": {
     "englishName": "Yumi",
@@ -11942,7 +12111,10 @@
         "sfx/Char020401_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020401"
+    ]
   },
   "0205": {
     "englishName": "Hikage",
@@ -12011,7 +12183,10 @@
         "sfx/Char020501_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020501"
+    ]
   },
   "0206": {
     "englishName": "Goblin Slayer",
@@ -12080,7 +12255,10 @@
         "sfx/Char020601_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020601"
+    ]
   },
   "0207": {
     "englishName": "Priestess",
@@ -12153,7 +12331,10 @@
         "sfx/Char020701_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020701"
+    ]
   },
   "0208": {
     "englishName": "High Elf Archer",
@@ -12225,7 +12406,10 @@
         "sfx/Char020801_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020801"
+    ]
   },
   "0209": {
     "englishName": "Sword Maiden",
@@ -12294,7 +12478,10 @@
         "sfx/Char020901_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "020901"
+    ]
   },
   "0210": {
     "englishName": "Ikaruga",
@@ -12358,7 +12545,10 @@
         "sfx/Char021001_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "021001"
+    ]
   },
   "0211": {
     "englishName": "Kyouka Uzen",
@@ -12422,7 +12612,10 @@
         "sfx/Char021101_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "021101"
+    ]
   },
   "0212": {
     "englishName": "Tenka Izumo",
@@ -12514,7 +12707,11 @@
         "sfx/Char021291_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "021201",
+      "021291"
+    ]
   },
   "0213": {
     "englishName": "Ren Yamashiro",
@@ -12603,7 +12800,11 @@
         "sfx/Char021391_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "021301",
+      "021391"
+    ]
   },
   "0601": {
     "englishName": "Wiggle",
@@ -12725,7 +12926,11 @@
         "sfx/Char100501_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100501",
+      "100502"
+    ]
   },
   "0602": {
     "englishName": "Lucrezia",
@@ -12798,7 +13003,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "100601"
+    ]
   },
   "0603": {
     "englishName": "Alec",
@@ -12887,7 +13095,11 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "060301",
+      "060302"
+    ]
   },
   "0604": {
     "englishName": "Celia",
@@ -13122,7 +13334,12 @@
         "sfx/Char060403_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "060402",
+      "060403",
+      "101601"
+    ]
   },
   "0605": {
     "englishName": "Anastasia",
@@ -13252,7 +13469,11 @@
         "sfx/Char060502_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "060501",
+      "060502"
+    ]
   },
   "0606": {
     "englishName": "Lecliss",
@@ -13383,7 +13604,11 @@
         "sfx/Char060602_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "060601",
+      "060602"
+    ]
   },
   "0607": {
     "englishName": "Rafina",
@@ -13598,7 +13823,12 @@
         "sfx/Char060706_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "060701",
+      "060702",
+      "060706"
+    ]
   },
   "0608": {
     "englishName": "Elise",
@@ -14127,7 +14357,12 @@
         "fa6f5143b0011b68749389920d4a5fa49d2ea1779581fef7460d215cd405bfb0.ogg",
         "faf911d85dcc79053097abea2d09684a79175a10ded88df5c5337b57e95c1d47.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "060801",
+      "060802",
+      "060804"
+    ]
   },
   "0609": {
     "englishName": "Seir",
@@ -14332,7 +14567,14 @@
         "sfx/Char101103_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "101101",
+      "101101_c",
+      "101102",
+      "101102_c",
+      "101103"
+    ]
   },
   "0610": {
     "englishName": "Helena",
@@ -14590,7 +14832,13 @@
         "sfx/Char061092_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "061001",
+      "061002",
+      "061003",
+      "061092"
+    ]
   },
   "0611": {
     "englishName": "Eleaneer",
@@ -14790,7 +15038,12 @@
         "sfx/Char061103_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "061101",
+      "061102",
+      "061103"
+    ]
   },
   "0613": {
     "englishName": "Dalvi",
@@ -15560,7 +15813,13 @@
         "f75308ed8e8ccfc5f0450e7571021cf356e116543fb6d17fd30ff97ca3b9d2d1.ogg",
         "fc8abafb94ea250c50fdc970b5f94ee63ba750371b85460a5d5e43a696570665.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "061302",
+      "061305",
+      "061306",
+      "061392"
+    ]
   },
   "0614": {
     "englishName": "Zenith",
@@ -16277,7 +16536,12 @@
         "ff1118349bd41cd47dbbcfe772713254c0c63b1705d2927dacc20693cfdf75a2.ogg",
         "ffab88ffac5e279a2285f3d82301635191fcf9dc54be10fbafd6dae085a10eb1.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "061402",
+      "061404",
+      "061492"
+    ]
   },
   "0619": {
     "englishName": "Samay",
@@ -16416,7 +16680,11 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "101401",
+      "101402"
+    ]
   },
   "0620": {
     "englishName": "Andrew",
@@ -16508,7 +16776,11 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "062001",
+      "062002"
+    ]
   },
   "0621": {
     "englishName": "Kry",
@@ -16617,7 +16889,11 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "101501",
+      "101502"
+    ]
   },
   "0625": {
     "englishName": "Maria",
@@ -16690,7 +16966,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "103601"
+    ]
   },
   "0626": {
     "englishName": "Arines",
@@ -16766,7 +17045,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "103701"
+    ]
   },
   "0627": {
     "englishName": "Jayden",
@@ -16905,7 +17187,11 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "101201",
+      "101202"
+    ]
   },
   "0628": {
     "englishName": "Emma",
@@ -17043,7 +17329,11 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "101301",
+      "101302"
+    ]
   },
   "0630": {
     "englishName": "Ingrid",
@@ -17115,7 +17405,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "063001"
+    ]
   },
   "0633": {
     "englishName": "Cynthia",
@@ -17197,7 +17490,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "063301"
+    ]
   },
   "0634": {
     "englishName": "Julie",
@@ -17279,7 +17575,10 @@
       ],
       "skillCutscene": [],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "063401"
+    ]
   },
   "0647": {
     "englishName": "Carlson",
@@ -17377,7 +17676,10 @@
         "sfx/Char103201_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "103201"
+    ]
   },
   "0648": {
     "englishName": "Lydia",
@@ -17486,7 +17788,10 @@
         "sfx/Char103301_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "103301"
+    ]
   },
   "0649": {
     "englishName": "Rigenette",
@@ -17584,7 +17889,10 @@
         "sfx/Char103401_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "103401"
+    ]
   },
   "0650": {
     "englishName": "Beatrice",
@@ -17685,7 +17993,10 @@
         "sfx/Char103501_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "103501"
+    ]
   },
   "0651": {
     "englishName": "Yuri",
@@ -18418,7 +18729,12 @@
         "fb73484509ca42978df23d577bf9cd55dd0a38ed504da6f383100a39d8b4547e.ogg",
         "fc37e54a60abdbb89a41758092121c2ff8df96e1e4a73ddda651772a7140e023.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "065102",
+      "065103",
+      "065193"
+    ]
   },
   "0658": {
     "englishName": "Nartas",
@@ -18533,7 +18849,10 @@
         "sfx/Char065802_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "065802"
+    ]
   },
   "0664": {
     "englishName": "Angelica",
@@ -19141,7 +19460,12 @@
         "ff27690bb0fab3d1c8693d8defe45aaaa3c674bd72af1feb4f2ec100652e95ea.ogg",
         "ff43455f80c7525098c341dacf7434c2904aad1c869a616e3ed4437a4d7e60f5.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "066401",
+      "066402",
+      "066403"
+    ]
   },
   "0668": {
     "englishName": "Refithea",
@@ -19399,7 +19723,13 @@
         "sfx/Char066803_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "066801",
+      "066802",
+      "066802_c",
+      "066803"
+    ]
   },
   "0669": {
     "englishName": "Glacia",
@@ -19635,7 +19965,12 @@
         "sfx/Char066907_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "066902",
+      "066906",
+      "066907"
+    ]
   },
   "0670": {
     "englishName": "Ventana",
@@ -20176,7 +20511,12 @@
         "f13b14a7594dd2ec039bed2cb238757acdac0963bf39a2521340c980ebde687e.ogg",
         "f43651385e2f5cd792bf15f987a09758dac6ec6a00863dd3d6f53ef8309b3724.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067002",
+      "067003",
+      "067004"
+    ]
   },
   "0671": {
     "englishName": "Granhildr",
@@ -20771,18 +21111,26 @@
         "f32507fc61f64d6b0417f3b0f65a378b4e2d5bd612b530e06e1b8469d338485b.ogg",
         "f9520036df2d7b1b72c81f6b531750ce24579912cabab242f2ec7610fe4f3075.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067101",
+      "067102",
+      "067103",
+      "067104"
+    ]
   },
   "0672": {
     "englishName": "Venaka",
     "chineseName": "贝那卡",
     "canonicalCostumeIds": [
       "067201",
-      "067202"
+      "067202",
+      "067203"
     ],
     "costumeIds": [
       "067201",
-      "067202"
+      "067202",
+      "067203"
     ],
     "costumeAssetIds": [
       "067201",
@@ -20802,6 +21150,9 @@
       ],
       "067202": [
         "novel_background_62"
+      ],
+      "067203": [
+        "novel_background_76"
       ]
     },
     "audioIds": {
@@ -20840,14 +21191,20 @@
         "Char067202_Sigh_1",
         "Char067202_Smile_1",
         "Char067202_Surprise_1",
-        "Char067202_Worry_1"
+        "Char067202_Worry_1",
+        "Char067203_BattleReady_1",
+        "Char067203_BattleReady_2",
+        "Char067203_BattleReady_3"
       ],
       "skillCutscene": [
         "Char067201_Cutscene5_1",
         "Char067201_Cutscene5_2",
         "Char067201_Skill_CutScene_01",
         "Char067202_Cutscene2",
-        "Char067202_Skill_CutScene_01"
+        "Char067202_Skill_CutScene_01",
+        "Char067203_Cutscene1_1",
+        "Char067203_Cutscene1_2",
+        "Char067203_Skill_CutScene_01"
       ],
       "dating": []
     },
@@ -20858,14 +21215,20 @@
         "Common/Char067201/Profile/Char067201_NormalLine_3",
         "Common/Char067202/Profile/Char067202_NormalLine_1",
         "Common/Char067202/Profile/Char067202_NormalLine_2",
-        "Common/Char067202/Profile/Char067202_NormalLine_3"
+        "Common/Char067202/Profile/Char067202_NormalLine_3",
+        "Common/Char067203/Profile/Char067203_NormalLine_1",
+        "Common/Char067203/Profile/Char067203_NormalLine_2",
+        "Common/Char067203/Profile/Char067203_NormalLine_3"
       ],
       "skillCutscene": [
         "event:/Characters/PC/BattleCutScene/Char067201_Skill_CutScene_01",
         "event:/Characters/PC/BattleCutScene/Char067202_Skill_CutScene_01",
+        "event:/Characters/PC/BattleCutScene/Char067203_Skill_CutScene_01",
         "event:/Voices/Common/Char067201/Char067201_Cutscene1",
         "event:/Voices/Common/Char067201/Char067201_Cutscene2",
-        "event:/Voices/Common/Char067202/Char067202_Cutscene1"
+        "event:/Voices/Common/Char067202/Char067202_Cutscene1",
+        "event:/Voices/Common/Char067203/Char067203_Cutscene1",
+        "event:/Voices/Common/Char067203/Char067203_Cutscene2"
       ],
       "dating": []
     },
@@ -20905,17 +21268,28 @@
         "ja-JP/067202/Char067202_Sigh_1.wav",
         "ja-JP/067202/Char067202_Smile_1.wav",
         "ja-JP/067202/Char067202_Surprise_1.wav",
-        "ja-JP/067202/Char067202_Worry_1.wav"
+        "ja-JP/067202/Char067202_Worry_1.wav",
+        "ja-JP/067203/Char067203_BattleReady_1.wav",
+        "ja-JP/067203/Char067203_BattleReady_2.wav",
+        "ja-JP/067203/Char067203_BattleReady_3.wav"
       ],
       "skillCutscene": [
         "ja-JP/067201/Char067201_Cutscene5_1.wav",
         "ja-JP/067201/Char067201_Cutscene5_2.wav",
         "ja-JP/067202/Char067202_Cutscene2.wav",
+        "ja-JP/067203/Char067203_Cutscene1_1.wav",
+        "ja-JP/067203/Char067203_Cutscene1_2.wav",
         "sfx/Char067201_Skill_CutScene_01.wav",
-        "sfx/Char067202_Skill_CutScene_01.wav"
+        "sfx/Char067202_Skill_CutScene_01.wav",
+        "sfx/Char067203_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067201",
+      "067202",
+      "067203"
+    ]
   },
   "0673": {
     "englishName": "Levia",
@@ -21153,7 +21527,12 @@
         "sfx/Char067303_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067301",
+      "067302",
+      "067303"
+    ]
   },
   "0674": {
     "englishName": "Michaela",
@@ -21468,7 +21847,13 @@
         "sfx/Char067491_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067401",
+      "067402",
+      "067403",
+      "067491"
+    ]
   },
   "0675": {
     "englishName": "Luvencia",
@@ -21725,7 +22110,12 @@
         "sfx/Char067504_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067502",
+      "067503",
+      "067504"
+    ]
   },
   "0676": {
     "englishName": "Wilhelmina",
@@ -22233,7 +22623,12 @@
         "f9c24ba26c9428dd7db38c6f8ed6d67ec8f09d30bd2928e8bbf3b07656fb9879.ogg",
         "f697a55025145a0d945dd7fb7efacec5dd4daaa2ce33aac9a377833597ae69ce.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067601",
+      "067603",
+      "067604"
+    ]
   },
   "0677": {
     "englishName": "Granadair",
@@ -22404,7 +22799,11 @@
         "sfx/Char067702_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067701",
+      "067702"
+    ]
   },
   "0678": {
     "englishName": "Mamonir",
@@ -22591,7 +22990,11 @@
         "sfx/Char067803_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067801",
+      "067803"
+    ]
   },
   "0679": {
     "englishName": "Aquila",
@@ -23094,7 +23497,11 @@
         "fa364583084ad70387b9cafed41352e4a42905ff9b1e225b1bf11f68301868de.ogg",
         "fc11c8d4565ddf907a8032346fa1ce3a1589d9b0914254bde578086bb1e8ddd2.ogg"
       ]
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "067901",
+      "067902"
+    ]
   },
   "0680": {
     "englishName": "Valze",
@@ -23236,6 +23643,9 @@
         "sfx/Char068001_Skill_CutScene_01.wav"
       ],
       "dating": []
-    }
+    },
+    "spine42CostumeAssetIds": [
+      "068001"
+    ]
   }
 }

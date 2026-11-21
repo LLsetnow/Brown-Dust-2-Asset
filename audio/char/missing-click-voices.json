@@ -432,6 +432,24 @@
       "costumeId": "068001",
       "skeleton": "Char068001",
       "sample": "Char068001_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067203",
+      "skeleton": "Char067203",
+      "sample": "Char067203_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067203",
+      "skeleton": "Char067203",
+      "sample": "Char067203_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067203",
+      "skeleton": "Char067203",
+      "sample": "Char067203_BattleReady_3"
     }
   ]
 }

@@ -7,3 +7,7 @@
 index.json 为覆盖统计，timelines/ 为演出时间轴，extraction-manifest.json 记录来源与哈希。
 
 已修复 30 个流式技能音效在快速离线提取时的重复解码缓冲问题；174 个音效均已重新提取并与原始样本核对。播放前同步解码并预载，保留游戏混音与时间轴。受影响服装和校验数据见 audio-quality.json。已打开的预览需关闭后重新打开，才能重新加载修复后的音频。
+
+## Spine 4.2 时间轴
+
+游戏 2.39.10 的官方时间轴见 [index.json](index.json) 中的 `officialTimelines`。每份记录包含来源 bundle hash、动画片段、FMOD 事件 GUID 和可用的语言文件。

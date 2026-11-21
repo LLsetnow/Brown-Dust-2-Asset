@@ -2,13 +2,14 @@
   "counts": {
     "performances": 174,
     "timelineClips": 538,
-    "soundEffects": 174,
+    "soundEffects": 175,
     "streamingSoundEffects": 30,
-    "audioBytes": 382248208,
-    "japaneseVoices": 360,
+    "audioBytes": 384236436,
+    "japaneseVoices": 362,
     "koreanVoices": 310,
     "missingJapaneseEvents": 1,
-    "missingKoreanEvents": 51
+    "missingKoreanEvents": 53,
+    "officialTimelines": 5
   },
   "missing": [
     {
@@ -425,6 +426,22 @@
       "sample": "Char068001_Cutscene4",
       "language": "ko-KR",
       "start": 4.033333333333333,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067203",
+      "event": "event:/Voices/Common/Char067203/Char067203_Cutscene1",
+      "sample": "Char067203_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 1.3104688003659248,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067203",
+      "event": "event:/Voices/Common/Char067203/Char067203_Cutscene2",
+      "sample": "Char067203_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 3.933333333333333,
       "reason": "Programmer sample absent from installed language banks"
     }
   ]

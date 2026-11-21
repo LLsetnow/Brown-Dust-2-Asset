@@ -7903,6 +7903,30 @@
         ],
         "ko-KR": []
       }
+    },
+    "char067203": {
+      "costumeId": "067203",
+      "illustration": "illust_char067203_230",
+      "voices": {
+        "ja-JP": [
+          {
+            "name": "Char067203_BattleReady_1",
+            "file": "ja-JP/067203/Char067203_BattleReady_1.wav",
+            "event": "Common/Char067203/Profile/Char067203_NormalLine_1"
+          },
+          {
+            "name": "Char067203_BattleReady_2",
+            "file": "ja-JP/067203/Char067203_BattleReady_2.wav",
+            "event": "Common/Char067203/Profile/Char067203_NormalLine_2"
+          },
+          {
+            "name": "Char067203_BattleReady_3",
+            "file": "ja-JP/067203/Char067203_BattleReady_3.wav",
+            "event": "Common/Char067203/Profile/Char067203_NormalLine_3"
+          }
+        ],
+        "ko-KR": []
+      }
     }
   }
 }

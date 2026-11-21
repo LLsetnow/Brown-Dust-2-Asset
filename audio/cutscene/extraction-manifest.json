@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:25:36.359Z",
+  "generatedAt": "2026-11-21T21:46:20.674Z",
   "sfx": {
     "renderer": "FMOD 2.03.12 WAVWRITER_NRT, Studio SYNCHRONOUS_UPDATE, Core STREAM_FROM_UPDATE, paused pre-roll at timeline 0, 48kHz stereo PCM16, 512-frame DSP blocks",
     "banks": [
@@ -8500,6 +8500,56 @@
             "diskBusy": true
           }
         ]
+      },
+      {
+        "guid": {
+          "Data1": -1470609982,
+          "Data2": 1208500201,
+          "Data3": -804900943,
+          "Data4": -1182823219
+        },
+        "key": "a85845c2-48083fe9-d0062fb1-b97f8ccd",
+        "kind": "sfx",
+        "result": 0,
+        "display": "Char067203_Skill_CutScene_01",
+        "pathResult": 0,
+        "event": "event:/Characters/PC/BattleCutScene/Char067203_Skill_CutScene_01",
+        "lengthMs": 8646,
+        "startFrame": 1281536,
+        "endFrame": 1698304,
+        "updates": 814,
+        "finalState": 2,
+        "file": "sfx/Char067203_Skill_CutScene_01.wav",
+        "preRollFrames": 49152,
+        "preRollTimelineMs": 0,
+        "preRollSounds": [
+          {
+            "name": "Char067203_Skill_CutScene_01",
+            "streaming": false,
+            "mode": 33554954,
+            "openResult": 0,
+            "openState": 6,
+            "bufferPercent": 0,
+            "starving": false,
+            "diskBusy": true
+          }
+        ],
+        "sounds": [
+          {
+            "name": "Char067203_Skill_CutScene_01",
+            "streaming": false,
+            "mode": 33554954,
+            "openResult": 0,
+            "openState": 6,
+            "bufferPercent": 0,
+            "starving": false,
+            "diskBusy": true
+          }
+        ],
+        "frames": 416768,
+        "duration": 8.682666666666666,
+        "sha256": "0cb00d8f45ea82fd4ec9fbe1061e19566d3ff848f308fdc784cbcc310e500e6b",
+        "gameVersion": "2.39.10"
       }
     ]
   },
@@ -20204,6 +20254,40 @@
         "peak": 32768,
         "rms": 5290.274700376755,
         "sha256": "6f78366ca3f7fedad2500fbd9b22d3b6f742dc2ae6ece861f2958dde0c8a68eb"
+      },
+      {
+        "name": "Char067203_Cutscene1_1",
+        "language": "ja-JP",
+        "file": "ja-JP/067203/Char067203_Cutscene1_1.wav",
+        "source": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+        "sourceSha256": "148872314e02f1cc3cbc5ccaaa33ec8c2849cdfa9fbb5985c43ce091a95f4070",
+        "sampleIndex": 81,
+        "sampleRate": 48000,
+        "channels": 1,
+        "bitsPerSample": 16,
+        "frames": 79616,
+        "duration": 1.6586666666666667,
+        "bytes": 159276,
+        "peak": 26389,
+        "rms": 6888.99261978405,
+        "sha256": "0b3648a0d9f0cdabdc28160e136843fac74ecd67de0651a58b008b44eed7a7a3"
+      },
+      {
+        "name": "Char067203_Cutscene1_2",
+        "language": "ja-JP",
+        "file": "ja-JP/067203/Char067203_Cutscene1_2.wav",
+        "source": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\LocalVoice_JP\\B9346AD2DC78C38A9902F28120AA364021CE22D1",
+        "sourceSha256": "148872314e02f1cc3cbc5ccaaa33ec8c2849cdfa9fbb5985c43ce091a95f4070",
+        "sampleIndex": 82,
+        "sampleRate": 44484,
+        "channels": 1,
+        "bitsPerSample": 16,
+        "frames": 80896,
+        "duration": 1.8185414980667207,
+        "bytes": 161836,
+        "peak": 26600,
+        "rms": 7322.685577309169,
+        "sha256": "602270a303c95c2d7f1e2bae9ffd5022da690a9af21a2a713712ad83c36c15e3"
       }
     ],
     "inventory": [
@@ -23323,5 +23407,386 @@
       "matchingAnimationClips": 2,
       "expected": 2
     }
-  ]
+  ],
+  "currentBuild": {
+    "gameVersion": "2.39.10",
+    "catalogHash": "b6638a00fb6584b4b0ea6f78fedbad6d",
+    "renderer": "FMOD 2.03.12 WAVWRITER_NRT, Studio SYNCHRONOUS_UPDATE, Core STREAM_FROM_UPDATE, paused pre-roll at timeline 0, 48kHz stereo PCM16, 512-frame DSP blocks",
+    "renderBanks": [
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\SoundMaster\\28B5628854E30FBBA375EEBEE1CF55DB483C71B4",
+        "result": 0,
+        "sha256": "2eb15181231933b838f742635456efa9f1692445ee045cf944b2da2987314c10"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\SoundMaster\\670376621CD06FEABE98436E50C388089C4A17DE",
+        "result": 0,
+        "sha256": "9496611e239cf7a9c76c39ffb4bc2be9f1ae654c0f6b69e9c5b4140cb666dae9"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\SoundMaster\\EBD132D43FEFEB15B4E5E2ECD51B590F52947420",
+        "result": 0,
+        "sha256": "331c7fe22a1a82b9271fb7c7d72b6ec4cf6b74acfbbdaf55514178d2a84f8c07"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\0310379CEF43B1A98259BC22481DB95F964CFC01",
+        "result": 0,
+        "sha256": "f7102af4a27306b58b068273b1e8e3f0f3a31e79db5737a4b0570726938fb180"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\0819BDE969F4F0A514DE0197DB21DDD6F016C21E",
+        "result": 0,
+        "sha256": "752f43b37e5fbb92175d31c9442f716bd00c7f62d3efacdd2810b55c1dabc6cd"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\09E2A91DD9247E32505219ADF894CDC206A88A19",
+        "result": 0,
+        "sha256": "da9addb53086bceb2372557b6ef41d11acf2c325a7935d52ab44d720115b6f21"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\0C896B80D6A4E61C1C2B5A7DD82F2ABBBA59DC16",
+        "result": 0,
+        "sha256": "95bc4fac109d0634c38b728da1083678dffc8466944b2b2148e3b2675dc3cf21"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\14891A217F2956C8EB6FB27CC5BC260C2F8C841C",
+        "result": 0,
+        "sha256": "b50ff48367b1cf4d79f8b213c817dba3a1788fde9612d035a7303917cc11068f"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\1F1557DEA7EA1EE5D14DDFF997468A84609F332C",
+        "result": 0,
+        "sha256": "8fe867c75db59d5b0287ecf419c0925a2b92483f07146c030b85eb5a96bf32c8"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\220EB6E87813AB4C1B462D07617D3036FC6FE155",
+        "result": 0,
+        "sha256": "fce26f679eccaa9c2c344c7abbe1356a4c784e8b66702fc71f5348df5887b2a5"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\236138E5927511B9FA680CF27347AF396F0B9887",
+        "result": 0,
+        "sha256": "0d96f3bd5f7f90fd3b3d2863702fba2709870c162eac671d99fee416f9ffd638"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\247DC0536C26B878007035072B5B23910439A851",
+        "result": 0,
+        "sha256": "8e756f00062224341583d16e76978745e21bea8c801a2b0b50fe5cab7cb74399"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\247DF8AD21B0BB584D5EB7FD0FC98177C22D6716",
+        "result": 0,
+        "sha256": "f19186c798c5e49197a0f360680cf7ac844a6a626249cc61ec09f6107c6029f8"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\248EF3BE0DE9804CA09CADC13BD2137FD4D6DCB7",
+        "result": 0,
+        "sha256": "e1ca06d054386533cc774f28ce60fa2e172938bd43f3fbf97f9a8c7fd8cafbed"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\2766F07DE544DDCF9A3D75FC67A2EEEFF0CE845A",
+        "result": 0,
+        "sha256": "a017ba05066e7755d874b9d0a86cfa2f93afcef96d04ed0bbb210c28d31f8a61"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\29224C2CED224AD8E9A444CB56BA11B779E0456B",
+        "result": 0,
+        "sha256": "c1c139864e7e67163bc027158747862799bbb1380e6310dd1595a4f68da6439c"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\2A041DA5ED9F47CAA36781F0CDBB1E6FEBBA77B5",
+        "result": 0,
+        "sha256": "c1b4f624902e724be8d570ade8ffa816c2091bf020a8d8c02b55cc685325359a"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\308E94D12622D693D91EC18941E84794F0209672",
+        "result": 0,
+        "sha256": "0df87b174cba3c00a022f13ca1e723d601af2dd26f67dcd65fb45aa382d1d3a6"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\342271E9887477BD308B35108B7346D60DDED17E",
+        "result": 0,
+        "sha256": "5eee84a58947754de0da0bcf0f067a46e7d525d26aff26808045d9ef2616c22a"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\351E692724866C2B2FA349E6F7D5248D382F7D7A",
+        "result": 0,
+        "sha256": "fd4ba4a9a383a4859cab1edb5d9a54e4cebe1bb3fe31ceb87ec75370170a059b"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\3B1103587489BCE5FB5721EB018041FF84313BFD",
+        "result": 0,
+        "sha256": "27bc7a8c616e7a499db420e559891bf81f42a9f95f33daaafe1b58925420f158"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\3BD6E241244C1B1DEE19F8B6C6A5593A7E90ADBE",
+        "result": 0,
+        "sha256": "ed32b322e03febcb7657df5879b076abf28e463c454b5e6e43121d0cdbf826be"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\41456672A62B74FAABD95FD5E61D607A28CFE209",
+        "result": 0,
+        "sha256": "8bb2ffe98131d1e8159f200f85324adc01683417d961a1eceb92f2e5f1b7c221"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\50F6143AEB77EE9D3C7780091BE2104AD5CDCA5D",
+        "result": 0,
+        "sha256": "5c1b30b66c6ac49788e189c995b89a6d5b4b3bd4784fbc8d83b49a3fcf6e417e"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\530B9E8F8EDFDAAEFBCA2C5C4E5981131FD28587",
+        "result": 0,
+        "sha256": "b3f5c16a60ac947a3dacc4ccfed2cce47dd056a76dea395908b6ef3aed8e1af3"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\537AECE25FCA286DD75B748A87C0305A6DF83D0F",
+        "result": 0,
+        "sha256": "5912b81aafe7b08f77a484efb17f1c029927def2c0a91dc3f866ed4f7eb2abd5"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\58FF8588AD033637A7C591920B285F68C8627E5A",
+        "result": 0,
+        "sha256": "5103a61776130315c71d3ed4e36a3fb6e4bf93861d273b2be86fdcfb67983ba8"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\605A0D4027E7586BDC419C18CF09757D2FC0BD11",
+        "result": 0,
+        "sha256": "a5894fece9afa309be3866aa8af51666e9b0a7fc93be63780b8e5d2b63a217a1"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\686BAF5C5687D19BB370AF8D0B6041A0018A054D",
+        "result": 0,
+        "sha256": "6fa55554b436ec5f866e8eb787917c4d29853e0d2f0eee52eab20a0dd71e6edf"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\79C7F73975453DB1DCF2DF9B7826678B28711775",
+        "result": 0,
+        "sha256": "90dcdbb8ff0e9c523944a4c6fd19659262c0c1e2eb15ff36b441084bf09f8ad6"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\7D93265151529E1F6A412559625BAFE3F4A4ADCF",
+        "result": 0,
+        "sha256": "a73753742373c13f6f30c4ca26792a9a6696ea19e26ed9ae57dead6ca42999c2"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\85CDEA6AA612121FE8335E053227F31AD0BE5814",
+        "result": 0,
+        "sha256": "cf1f8a09d74f90a20c1b6e52c7cf2fed2c5c28ae7e563e7919d51e82a9f3f28b"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\89B2C23FAF6797B9BC44D94770123B8A7BB4DF30",
+        "result": 0,
+        "sha256": "b55402ac742aa0727fb8bfdb0c996c30dedfb20069ac1a40250bafaae37e95ef"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\9032622C7211BEC06E3F9568721D0F8D732E49EE",
+        "result": 0,
+        "sha256": "4af82673a23bd6e50b1cc8c8781032acbe53cc0747ff28985c834f14c232e063"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\930C110A06A010CD811413A6DFE7555F0B78320E",
+        "result": 0,
+        "sha256": "a12a673243655b2ea37db80dfe4260291ce5140222aec98420c36c8f36677615"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\9888B638CB1CEBEBBE29BB80CD873246EADCF096",
+        "result": 0,
+        "sha256": "319bc4cd5b0ccd88a3c6b35f3c1325371f57e97f7885825ee3fad036823ba0b9"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\9C365B958F8C0CB0B1F66F972C81F675317730D2",
+        "result": 0,
+        "sha256": "a4cb3156e4be8e5405002cbff4780c21cced1cd1f7ccb687996333cb984454d1"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\A17FADEBF070040C03B70996AD24F265443BDA0C",
+        "result": 0,
+        "sha256": "c0d831ef4d3a45f12afec8317d6a4c0809ec0a3de42dc5a7a6a69cd1f7212a11"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\A231BA47E28DD0FF0EE7D6EF908FEE01516C7D29",
+        "result": 0,
+        "sha256": "5f3f39c9e5b1fad0e2e416bd55452223e7f9472bcb7134b671b79408addfc52b"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\A49E2E1EF77692418B34FD5DD5BAE357D4AAD71F",
+        "result": 0,
+        "sha256": "65c70e66199b19f0b57173a3f249c71273cd16b9daf39c744bbdc586341d3c27"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\A94AA353416DED51C9CA0C7CF7BEB96844D3F8D3",
+        "result": 0,
+        "sha256": "4ec024f4da051e14344b2a9b4b724016e15ad555519eee48b1c1fc599b73a09a"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\AB94D40BD5E4B28844001A1BCA237C70951D5154",
+        "result": 0,
+        "sha256": "e9c1017a5d860fee8a3dc3c034cf21ae4b539f98d1e8016f67a07bc2dd28f94c"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\AD2D4E35735FF0C5FDA326D5028F1BDE6EC8E4B0",
+        "result": 0,
+        "sha256": "0f270fd18f9568e9c9481f0207259364634c81c613aae0c711f8e03598013797"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\BCC5DDCBC57C5C62B0260E9A1FF6841E35D1B433",
+        "result": 0,
+        "sha256": "1dbeee894da8fefc9e6c6568072263537bbbdd27042f05f067877de1549c5b69"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\C17A405445C2FD8C026871A9168BA1DD96A4CE2B",
+        "result": 0,
+        "sha256": "54869c32328337f41fb588d309df1105e65f57d23c876bac55bff4efc552abda"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\C7907D2D85E3F8D3A5393B8AED75B38AAA17463D",
+        "result": 0,
+        "sha256": "9063f42a600f519643931df9a88fc8e311aa96c5bf1e7ae11430da12aed71ea1"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\C99DA2E4766BF79264E9C6BE09C7443B5C37FD81",
+        "result": 0,
+        "sha256": "18ffd5413f4c0d8ab52e002c128287581d909301c9d5de69d0a6b27e5a133e40"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\CE87F6173004134036C20501136FEA7B1E4289EA",
+        "result": 0,
+        "sha256": "ae16b8f441e5a0da1c9acfb1e4ec7b4834d49a7d58519ff5a36f97486e800aee"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\D203CA8844C3B445F1B57E4475FB50102F07DEF2",
+        "result": 0,
+        "sha256": "4079f0eda9b6fda98528dcdc8a358beb8b751c9c1f0df6d12445989d1ece5e86"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\D4B503032649CAEB5256EDAE7E1AE4DED1C76167",
+        "result": 0,
+        "sha256": "840807aff4d94e15ea875e7b3616645cc4f73028d2feffdd257d223435dd02cc"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\D4E7FE2427234E45CA05E4BA7A21DD670D8AA7BF",
+        "result": 0,
+        "sha256": "7f77fbb7e3964e9fae732504b14e911f9b5f03cdf44c622cc1e0953009e64853"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\DB970FAB3DBD3D7ACC0EFF0C32D8ED9E3BD1278F",
+        "result": 0,
+        "sha256": "06f8867f72393f529a02984dd99604b54178e15ec4e445e1f0ba6233b008f22f"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\DC252FA43A468B13A2A842F6D31A044768B99F46",
+        "result": 0,
+        "sha256": "90478435615694159e488207bf4f14206d893488dd532e92893a87c9ff02e91b"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\DCB18C4D5E8C94DF1595367F1AB9AF6C341DEE66",
+        "result": 0,
+        "sha256": "6b5f94710dcf60c18f37d93a56f67b7e46aca71886e8f4437ce4276f8f8200ff"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\DF284A604AA9C2AE2FA385039C77AC384BB2D0C1",
+        "result": 0,
+        "sha256": "8b09783fa6f7ebe7c28818cafff4dc265ee455e24941d710bb8f48479259810d"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\E3A13E025174640A28EF3BE90D264D8C698DB01F",
+        "result": 0,
+        "sha256": "861eaaad802e47b5f539e4429955cd9a58df9b13d7a794a9f77520ef4b1b3e4d"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\E918091C2C824A1E63B31E11C133B412AF695EFE",
+        "result": 0,
+        "sha256": "88a3783b243162c8999a0de0509a837ea9f7866d76cfe4b6f0c9e81bf9a5c226"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\FD621C7BB2F9F9DB712C407BBEAC4D878104CD9D",
+        "result": 0,
+        "sha256": "1e6a91e4e6bb4bf80432b16a005a1c31ba7a6c0a2da7110c610c5c233d7b6276"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\FE23D945DABB1D74FD3DC5D788387ACA06D29A25",
+        "result": 0,
+        "sha256": "88e57d749149c96251dfba45ff40a7f62ce06670f21ff9a80303bb4e225ef4c0"
+      },
+      {
+        "file": "C:\\Users\\admin\\AppData\\LocalLow\\Gamfs\\BrownDust II\\SoundData\\Patched\\Sound\\FF7A0810B7C9ECAD1538C34AAE3A6F5A2DC54BB4",
+        "result": 0,
+        "sha256": "cef8a7b2a63291d6c0afb8291cf69cf15926b86a491ff95cff1e7a91f5c67709"
+      }
+    ],
+    "verifiedEffects": [
+      {
+        "event": "event:/Characters/PC/BattleCutScene/Char004302_Skill_CutScene_01",
+        "file": "sfx/Char004302_Skill_CutScene_01.wav",
+        "duration": 9.141333333333334,
+        "sha256": "a42d0020a44ca17233c3a15562b15256e41099a02ae626cd0106df275f8ba372"
+      },
+      {
+        "event": "event:/Characters/PC/BattleCutScene/Char021291_Skill_CutScene_01",
+        "file": "sfx/Char021291_Skill_CutScene_01.wav",
+        "duration": 11.338666666666667,
+        "sha256": "347ff03581a5ac3c128e83d9f820e29e74cdf95dfbf81cd5b7786ab9184a0b88"
+      },
+      {
+        "event": "event:/Characters/PC/BattleCutScene/Char067203_Skill_CutScene_01",
+        "file": "sfx/Char067203_Skill_CutScene_01.wav",
+        "duration": 8.682666666666666,
+        "sha256": "0cb00d8f45ea82fd4ec9fbe1061e19566d3ff848f308fdc784cbcc310e500e6b"
+      },
+      {
+        "event": "event:/Characters/PC/BattleCutScene/Char001297_Skill_CutScene_01",
+        "file": "sfx/Char001297_Skill_CutScene_01.wav",
+        "duration": 10.485333333333333,
+        "sha256": "3a7a74b58eedf40341fcb570fde9737e314fd2f7f42b95bcd3c03920efec6e9e"
+      },
+      {
+        "event": "event:/Characters/PC/BattleCutScene/Char068001_Skill_CutScene_01",
+        "file": "sfx/Char068001_Skill_CutScene_01.wav",
+        "duration": 9.109333333333334,
+        "sha256": "28b07117caf18fb29aebd91bb85dbb5b5c523c70ce8c3be6a30e4779f24250be"
+      }
+    ],
+    "officialTimelines": {
+      "001297": {
+        "file": "timelines/spine-4.2/001297.json",
+        "sourceTimeline": "Char001297",
+        "bundleHash": "fe1526397de447239d56450a1b3ee665",
+        "clips": 3,
+        "missingJapanese": 0,
+        "missingKorean": 2
+      },
+      "004302": {
+        "file": "timelines/spine-4.2/004302.json",
+        "sourceTimeline": "Char004302",
+        "bundleHash": "dd0d966492fe54776645e7ecde514d9b",
+        "clips": 3,
+        "missingJapanese": 0,
+        "missingKorean": 2
+      },
+      "021291": {
+        "file": "timelines/spine-4.2/021291.json",
+        "sourceTimeline": "Char021291",
+        "bundleHash": "3921b721031bcf3524839cfac6dc05e5",
+        "clips": 3,
+        "missingJapanese": 0,
+        "missingKorean": 2
+      },
+      "067203": {
+        "file": "timelines/spine-4.2/067203.json",
+        "sourceTimeline": "Char067203",
+        "bundleHash": "9cb3e7162d964aac627f750c068033ed",
+        "clips": 3,
+        "missingJapanese": 0,
+        "missingKorean": 2
+      },
+      "068001": {
+        "file": "timelines/spine-4.2/068001.json",
+        "sourceTimeline": "Char068001",
+        "bundleHash": "db76d06d5c4f3a002d41226ddf78ae4e",
+        "clips": 3,
+        "missingJapanese": 0,
+        "missingKorean": 2
+      }
+    }
+  }
 }

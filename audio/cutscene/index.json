@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T03:25:36.358Z",
+  "generatedAt": "2026-11-21T21:46:20.674Z",
   "counts": {
     "performances": 174,
     "timelineClips": 538,
-    "soundEffects": 174,
+    "soundEffects": 175,
     "streamingSoundEffects": 30,
-    "audioBytes": 382248208,
-    "japaneseVoices": 360,
+    "audioBytes": 384236436,
+    "japaneseVoices": 362,
     "koreanVoices": 310,
     "missingJapaneseEvents": 1,
-    "missingKoreanEvents": 51
+    "missingKoreanEvents": 53,
+    "officialTimelines": 5
   },
   "performances": [
     {
@@ -1579,5 +1580,47 @@
       "missingJapanese": 0,
       "missingKorean": 2
     }
-  ]
+  ],
+  "officialTimelines": {
+    "001297": {
+      "file": "timelines/spine-4.2/001297.json",
+      "sourceTimeline": "Char001297",
+      "bundleHash": "fe1526397de447239d56450a1b3ee665",
+      "clips": 3,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    "004302": {
+      "file": "timelines/spine-4.2/004302.json",
+      "sourceTimeline": "Char004302",
+      "bundleHash": "dd0d966492fe54776645e7ecde514d9b",
+      "clips": 3,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    "021291": {
+      "file": "timelines/spine-4.2/021291.json",
+      "sourceTimeline": "Char021291",
+      "bundleHash": "3921b721031bcf3524839cfac6dc05e5",
+      "clips": 3,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    "067203": {
+      "file": "timelines/spine-4.2/067203.json",
+      "sourceTimeline": "Char067203",
+      "bundleHash": "9cb3e7162d964aac627f750c068033ed",
+      "clips": 3,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    "068001": {
+      "file": "timelines/spine-4.2/068001.json",
+      "sourceTimeline": "Char068001",
+      "bundleHash": "db76d06d5c4f3a002d41226ddf78ae4e",
+      "clips": 3,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    }
+  }
 }
