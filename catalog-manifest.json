@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.11.22.1",
+  "gameVersion": "2.39.10",
+  "files": [
+    {
+      "path": "characters.json",
+      "dataVersion": "0.0.34",
+      "sha256": "8d4e6705e9f0c1a92a962c24951e697d05a3f2aae5496132dbee463faf59316b"
+    },
+    {
+      "path": "modpreview.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "9d58da2fd71e9ed0e98bd057b34044cda5d0250cb58e2eb8605ad20d7f72632d"
+    },
+    {
+      "path": "modmanager.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "cc4e137e294eae1c56241e8363e097b19b043e195bffef4c495823186ae7c2b9"
+    },
+    {
+      "path": "index.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "926ff60eb5b6bd8b7a3a1928bd4d074b77e7bd79754434cea18418c73fd43d9d"
+    },
+    {
+      "path": "audio/char/index.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "821a0430505dd645c0989eaf50e3df67da1e17e63d38f163c195046dd84b98e2"
+    },
+    {
+      "path": "audio/cutscene/index.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "4d771c1f0f3f77a1a6d27c9e1c3ca274259450451b2a56a0d37fe8ec107e7876"
+    },
+    {
+      "path": "audio/dating/index.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "5e8f19679627d254d4e3e6ed8379e198cb5fbaf416a833ef29a67b5dd6a6e6df"
+    },
+    {
+      "path": "audio/dating/illust_dating1.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "f7d65f08a205d7eaa147360af4467926700ef20017444fdfd253a14637396d43"
+    },
+    {
+      "path": "audio/dating/illust_dating2.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "749c4c0802fe175b9876486c59440476cde250ce78cd0c994b4a02ff774eb0be"
+    },
+    {
+      "path": "audio/dating/illust_dating3.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "a1b510dfbe3a1c2a265db6dbe667f873539f5c30f3d0930ad32d36e489ed4897"
+    },
+    {
+      "path": "audio/dating/illust_dating4.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "30a42a784ce9be9de58f8e5f21374ff6efa71d57802e109c6be0075a91cd318f"
+    },
+    {
+      "path": "audio/dating/illust_dating5.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "c33789d8902bff313abda50a2bcf244496544de42429cf54b4038ceba204a127"
+    },
+    {
+      "path": "audio/dating/illust_dating6.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "d5c03418059aa3e5df161fc803329393f864dba167159108455f1ea2b1175261"
+    },
+    {
+      "path": "audio/dating/illust_dating7.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "1069822949ca8e538d1e143df3daf139595b7c452ef6742d61a4b36121321e34"
+    },
+    {
+      "path": "audio/dating/illust_dating8.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "f3c0a7d7cea49b0e5a5fa61922d88520326370a321722250895803f744cf14a5"
+    },
+    {
+      "path": "audio/dating/illust_dating9.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "39059d2471f747db2ebbd4a5931ea7e763f93e444e7bb55a7620ffd3b1c1f923"
+    },
+    {
+      "path": "audio/dating/illust_dating10.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "c5c3aacc5c908ffea935effd31685993c580262dce1587a474516ef709aea926"
+    },
+    {
+      "path": "audio/dating/illust_dating11.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "f9761733bbc106079ed49c66cd58a9a8d23bf71239a1379fb26d0210c1ad7105"
+    },
+    {
+      "path": "audio/dating/illust_dating12.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "50b5878af6e46c7f6918a7c6a709d2be7d488102701900a07e10d186851eb125"
+    },
+    {
+      "path": "audio/dating/illust_dating13.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "a8e1735e1430e7646514d65c084306337b037f793526faa09e5c87424652c8ff"
+    },
+    {
+      "path": "audio/dating/illust_dating14.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "ec6024cfbd2d0b69aa0feb48f15636b3a731f1ddaf035d867fe962f0541fc1a1"
+    },
+    {
+      "path": "audio/dating/illust_dating15.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "dc5ae72b39ea2410f992b0d80b8be115bd2926435ec9ed9fd9e74dd523d1382b"
+    },
+    {
+      "path": "audio/dating/illust_dating16.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "d3698835cca52f72aa37ca5a3be87e2d23622f61d259b0ce519258da2856045f"
+    },
+    {
+      "path": "audio/dating/illust_dating17.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "8cf7d7936789c99623b03a4b1693e8b8d4a2aa9464cf6bbcd5979f8907e9f2c3"
+    },
+    {
+      "path": "audio/dating/illust_dating18.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "a06a68807ec7f17fac963e71a421bb67dffacd985b27022d6cfc456e5d3b6f6d"
+    },
+    {
+      "path": "audio/dating/illust_dating19.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "3afe977365fd6968665580432e3f7e9dc93237245c34ee243f246a427152d5c3"
+    },
+    {
+      "path": "audio/dating/illust_dating20.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "7d9c193c769da1ef644ba79b0140427d86561381e391900e04c0406fac432fc8"
+    },
+    {
+      "path": "audio/dating/illust_dating21.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "309a7a0d6da67722d27f838b82e7f3e44da92b468176e10ed27e88a5460c65a1"
+    },
+    {
+      "path": "audio/dating/illust_dating22.json",
+      "dataVersion": "2026.11.22.1",
+      "sha256": "2426cea58c99318a742f161c5e4a1ffd59e76eda7f84b70ff44eef6f5014840d"
+    }
+  ]
+}
